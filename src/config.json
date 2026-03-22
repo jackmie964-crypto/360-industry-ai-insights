@@ -5,43 +5,43 @@
     "industries": [
         {
             "name": "农业科技与合成生物",
-            "rss_url": "https://news.google.com/rss/search?q=Agriculture+Technology+Synthetic+Biology+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=农业科技+OR+合成生物&format=rss"
         },
         {
             "name": "远洋航运与全球供应链",
-            "rss_url": "https://news.google.com/rss/search?q=Maritime+Shipping+Supply+Chain+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=远洋航运+OR+全球供应链&format=rss"
         },
         {
             "name": "银发经济与智能康养",
-            "rss_url": "https://news.google.com/rss/search?q=Elderly+Care+Economy+Smart+Health+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=银发经济+OR+智能康养&format=rss"
         },
         {
             "name": "特种冶金与新材料",
-            "rss_url": "https://news.google.com/rss/search?q=Specialty+Metallurgy+New+Materials+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=特种冶金+OR+新材料&format=rss"
         },
         {
             "name": "工业废水与环保科技",
-            "rss_url": "https://news.google.com/rss/search?q=Industrial+Wastewater+Treatment+Tech+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=工业废水+OR+环保科技&format=rss"
         },
         {
             "name": "高端医疗器械",
-            "rss_url": "https://news.google.com/rss/search?q=High-end+Medical+Devices+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=高端医疗器械&format=rss"
         },
         {
             "name": "低空经济与 eVTOL",
-            "rss_url": "https://news.google.com/rss/search?q=eVTOL+Urban+Air+Mobility+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=低空经济+OR+eVTOL&format=rss"
         },
         {
             "name": "精密仪器与传感器",
-            "rss_url": "https://news.google.com/rss/search?q=Precision+Instruments+Sensors+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=精密仪器+OR+传感器&format=rss"
         },
         {
             "name": "宠物医疗与经济",
-            "rss_url": "https://news.google.com/rss/search?q=Pet+Economy+Medical+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=宠物医疗+OR+宠物经济&format=rss"
         },
         {
             "name": "废旧电池回收与循环经济",
-            "rss_url": "https://news.google.com/rss/search?q=Battery+Recycling+Circular+Economy+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+            "rss_url": "https://www.bing.com/news/search?q=电池回收+OR+循环经济&format=rss"
         }
     ]
 }
