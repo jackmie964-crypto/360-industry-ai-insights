@@ -1,0 +1,47 @@
+{
+    "model_name": "gemini-2.5-flash",
+    "output_dir": "360_Industry_Insights",
+    "max_news_per_industry": 5,
+    "industries": [
+        {
+            "name": "农业科技与合成生物",
+            "rss_url": "https://news.google.com/rss/search?q=Agriculture+Technology+Synthetic+Biology+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "远洋航运与全球供应链",
+            "rss_url": "https://news.google.com/rss/search?q=Maritime+Shipping+Supply+Chain+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "银发经济与智能康养",
+            "rss_url": "https://news.google.com/rss/search?q=Elderly+Care+Economy+Smart+Health+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "特种冶金与新材料",
+            "rss_url": "https://news.google.com/rss/search?q=Specialty+Metallurgy+New+Materials+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "工业废水与环保科技",
+            "rss_url": "https://news.google.com/rss/search?q=Industrial+Wastewater+Treatment+Tech+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "高端医疗器械",
+            "rss_url": "https://news.google.com/rss/search?q=High-end+Medical+Devices+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "低空经济与 eVTOL",
+            "rss_url": "https://news.google.com/rss/search?q=eVTOL+Urban+Air+Mobility+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "精密仪器与传感器",
+            "rss_url": "https://news.google.com/rss/search?q=Precision+Instruments+Sensors+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "宠物医疗与经济",
+            "rss_url": "https://news.google.com/rss/search?q=Pet+Economy+Medical+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        },
+        {
+            "name": "废旧电池回收与循环经济",
+            "rss_url": "https://news.google.com/rss/search?q=Battery+Recycling+Circular+Economy+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        }
+    ]
+}
